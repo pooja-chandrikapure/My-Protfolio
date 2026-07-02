@@ -60,12 +60,12 @@
 <script setup>
 const jobs = [
   {
-    date: 'Jan 2026 — April 2026',
+    date: 'Jan 2026 — Present',
     role: 'Frontend Developer Executive',
     company: 'Xtention Crew Technology',
     description: 'Built and maintained UI components for HRMS . Integrated REST APIs, handled state management, and improved performance across modules. Designed and developed responsive landing pages',
     tags: ['Vue.js', 'Tailwind', 'REST API', 'Git', 'Socket.io'],
-    link: 'https://hrms.xtention.in/' ,
+    link: 'https://admin.qbitfinances.com/' ,
     landing: 'https://leads.verifiedpips.com/'
   },
   {
